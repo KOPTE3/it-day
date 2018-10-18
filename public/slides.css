@@ -12,3 +12,7 @@ section.slide.first small a {
 	font-size: 54px;
 	font-weight: 500;
 }
+
+[hidden] {
+	display: none;
+}
